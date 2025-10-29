@@ -1,0 +1,154 @@
+{
+  "placeholderImages": [
+    {
+      "id": "banner-1",
+      "description": "Electronics sale banner",
+      "imageUrl": "https://images.unsplash.com/photo-1681505805363-73f08e4a94d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxlbGVjdHJvbmljcyUyMHNhbGV8ZW58MHx8fHwxNzYxNjI5NTA0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "electronics sale"
+    },
+    {
+      "id": "banner-2",
+      "description": "Fashion new arrivals banner",
+      "imageUrl": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmYXNoaW9uJTIwbW9kZWx8ZW58MHx8fHwxNzYxNjYwODEwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fashion model"
+    },
+    {
+      "id": "banner-3",
+      "description": "Home decor banner",
+      "imageUrl": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxsaXZpbmclMjByb29tfGVufDB8fHx8MTc2MTY4NDI4NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "living room"
+    },
+    {
+      "id": "category-electronics",
+      "description": "Electronics category image",
+      "imageUrl": "https://images.unsplash.com/photo-1646766360897-34c92cb6545a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxnYWRnZXRzJTIwdGVjaG5vbG9neXxlbnwwfHx8fDE3NjE2Mjk1MDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "gadgets technology"
+    },
+    {
+      "id": "category-fashion",
+      "description": "Fashion category image",
+      "imageUrl": "https://images.unsplash.com/photo-1699289644543-c0a6de9aff26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjbG90aGluZyUyMHN0eWxlfGVufDB8fHx8MTc2MTYyOTUwNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "clothing style"
+    },
+    {
+      "id": "category-home",
+      "description": "Home category image",
+      "imageUrl": "https://images.unsplash.com/photo-1646987916641-1f3c8992daa2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxtb2Rlcm4lMjBpbnRlcmlvcnxlbnwwfHx8fDE3NjE2MjM1ODR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "modern interior"
+    },
+    {
+      "id": "category-beauty",
+      "description": "Beauty category image",
+      "imageUrl": "https://images.unsplash.com/photo-1618331680655-5c23b9c4d29b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjb3NtZXRpY3MlMjBtYWtldXB8ZW58MHx8fHwxNzYxNjI2MTgwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cosmetics makeup"
+    },
+    {
+      "id": "category-sports",
+      "description": "Sports category image",
+      "imageUrl": "https://images.unsplash.com/photo-1595827432953-7161e19e303e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8c3BvcnRzJTIwZXF1aXBtZW50fGVufDB8fHx8MTc2MTY5MzA0OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sports equipment"
+    },
+    {
+      "id": "category-books",
+      "description": "Books category image",
+      "imageUrl": "https://images.unsplash.com/photo-1568667256531-7d5ac92eaa7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsaWJyYXJ5JTIwYm9va3N8ZW58MHx8fHwxNzYxNzM4Mzg4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "library books"
+    },
+    {
+      "id": "category-grocery",
+      "description": "Grocery category image",
+      "imageUrl": "https://images.unsplash.com/photo-1570197571499-166b36435e9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxmcmVzaCUyMGZvb2R8ZW58MHx8fHwxNzYxNzEyMDgyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fresh food"
+    },
+    {
+      "id": "product-1-a",
+      "description": "Product image 1a",
+      "imageUrl": "https://images.unsplash.com/photo-1577375729152-4c8b5fcda381?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxsYXB0b3AlMjBjb21wdXRlcnxlbnwwfHx8fDE3NjE2Njc0MTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "laptop computer"
+    },
+    {
+      "id": "product-1-b",
+      "description": "Product image 1b",
+      "imageUrl": "https://images.unsplash.com/photo-1583776092856-c1331d821349?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxrZXlib2FyZCUyMGRlc2t8ZW58MHx8fHwxNzYxNzE1MzI4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "keyboard desk"
+    },
+    {
+      "id": "product-2-a",
+      "description": "Product image 2a",
+      "imageUrl": "https://images.unsplash.com/photo-1675752520743-c449b6f9341a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzbWFydHBob25lJTIwc2NyZWVufGVufDB8fHx8MTc2MTczMDkwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "smartphone screen"
+    },
+    {
+      "id": "product-3-a",
+      "description": "Product image 3a",
+      "imageUrl": "https://images.unsplash.com/photo-1700177421807-98c9c2d7bdf4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8dC1zaGlydCUyMG1vZGVsfGVufDB8fHx8MTc2MTcwODgyOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "t-shirt model"
+    },
+    {
+      "id": "product-4-a",
+      "description": "Product image 4a",
+      "imageUrl": "https://images.unsplash.com/photo-1714143136372-ddaf8b606da7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxibHVlJTIwamVhbnN8ZW58MHx8fHwxNzYxNjIxODc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "blue jeans"
+    },
+    {
+      "id": "product-5-a",
+      "description": "Product image 5a",
+      "imageUrl": "https://images.unsplash.com/photo-1713453076348-1dd57aa31a64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8c29mYSUyMGxpdmluZ3xlbnwwfHx8fDE3NjE2MjIyMTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sofa living"
+    },
+    {
+      "id": "product-6-a",
+      "description": "Product image 6a",
+      "imageUrl": "https://images.unsplash.com/photo-1484154218962-a197022b5858?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxraXRjaGVuJTIwYXBwbGlhbmNlfGVufDB8fHx8MTc2MTczOTUwNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "kitchen appliance"
+    },
+    {
+      "id": "product-7-a",
+      "description": "Product image 7a",
+      "imageUrl": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxza2luY2FyZSUyMHByb2R1Y3R8ZW58MHx8fHwxNzYxNzI0OTMxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "skincare product"
+    },
+    {
+      "id": "product-8-a",
+      "description": "Product image 8a",
+      "imageUrl": "https://images.unsplash.com/photo-1460353581641-37baddab0fa2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxydW5uaW5nJTIwc2hvZXN8ZW58MHx8fHwxNzYxNzM1OTk3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "running shoes"
+    },
+    {
+      "id": "product-9-a",
+      "description": "Product image 9a",
+      "imageUrl": "https://images.unsplash.com/photo-1589829085413-56de8ae18c73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxib29rJTIwY292ZXJ8ZW58MHx8fHwxNzYxNzM5NTA2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "book cover"
+    },
+    {
+      "id": "product-10-a",
+      "description": "Product image 10a",
+      "imageUrl": "https://images.unsplash.com/photo-1669295418566-f9833417f330?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxhcHBsZSUyMGZydWl0fGVufDB8fHx8MTc2MTczMDgzN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "apple fruit"
+    },
+    {
+      "id": "empty-cart",
+      "description": "Empty cart illustration",
+      "imageUrl": "https://images.unsplash.com/photo-1525328437458-0c4d4db7cab4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzaG9wcGluZyUyMGNhcnR8ZW58MHx8fHwxNzYxNzA5NjgzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "shopping cart"
+    },
+    {
+      "id": "empty-wishlist",
+      "description": "Empty wishlist illustration",
+      "imageUrl": "https://images.unsplash.com/photo-1573376670774-4427757f7963?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxlbXB0eSUyMGJveHxlbnwwfHx8fDE3NjE2ODc4NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "empty box"
+    },
+    {
+      "id": "no-results",
+      "description": "No search results illustration",
+      "imageUrl": "https://images.unsplash.com/photo-1568495341369-1066472c7a27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxtYWduaWZ5aW5nJTIwZ2xhc3N8ZW58MHx8fHwxNzYxNzM5NTA2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "magnifying glass"
+    },
+    {
+      "id": "order-success",
+      "description": "Order success illustration",
+      "imageUrl": "https://images.unsplash.com/photo-1650584997985-e713a869ee77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjZWxlYnJhdGlvbiUyMHBhcnR5fGVufDB8fHx8MTc2MTczOTUwNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "celebration party"
+    }
+  ]
+}
