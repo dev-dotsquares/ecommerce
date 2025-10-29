@@ -12,6 +12,7 @@ import { Sheet, SheetContent, SheetTrigger } from '@/components/ui/sheet';
 import { Button } from '@/components/ui/button';
 import { Filter } from 'lucide-react';
 import { usePathname, useRouter, useSearchParams } from 'next/navigation';
+import { Suspense } from 'react';
 
 const ITEMS_PER_PAGE = 12;
 
@@ -23,7 +24,7 @@ const SORT_OPTIONS = [
   { value: 'rating', label: 'Customer Rating' },
 ];
 
-export default function SearchPage() {
+function Search() {
   const router = useRouter();
   const pathname = usePathname();
   const searchParams = useSearchParams();
@@ -151,5 +152,13 @@ export default function SearchPage() {
         </main>
       </div>
     </div>
+  );
+}
+
+export default function SearchPage() {
+  return (
+    <Suspense fallback={<div>Loading...</div>}>
+      <Search />
+    </Suspense>
   );
 }

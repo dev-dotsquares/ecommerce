@@ -2,12 +2,12 @@
 
 import { useSearchParams, useRouter } from 'next/navigation';
 import Link from 'next/link';
-import { useEffect } from 'react';
+import { useEffect, Suspense } from 'react';
 import { Button } from '@/components/ui/button';
 import { EmptyState } from '@/components/shared/empty-state';
 import { useConfetti } from '@/hooks/use-confetti';
 
-export default function OrderSuccessPage() {
+function OrderSuccess() {
   const searchParams = useSearchParams();
   const router = useRouter();
   const confetti = useConfetti();
@@ -40,5 +40,13 @@ export default function OrderSuccessPage() {
         </div>
       </div>
     </div>
+  );
+}
+
+export default function OrderSuccessPage() {
+  return (
+    <Suspense fallback={<div>Loading...</div>}>
+      <OrderSuccess />
+    </Suspense>
   );
 }
